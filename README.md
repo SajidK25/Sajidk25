@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-	<a href="https://github.com/Sajidk25"><img src="https://img.shields.io/github/followers/Sajidk25.svg?label=GitHub" alt="GitHub"></a>
-	<a href="https://twitter.com/sajidk25"><img src="https://img.shields.io/twitter/follow/Sajidk25?label=Twitter" alt="Twitter"></a>
+	<a href="https://github.com/Sajidk25"><img src="https://img.shields.io/github/followers/Sajidk25.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/sajidk25"><img src="https://img.shields.io/twitter/follow/Sajidk25?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/sajid-khan-15084a186/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
