@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/Sajidk25"><img src="https://img.shields.io/github/followers/Sajidk25.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/sajidk25"><img src="https://img.shields.io/twitter/follow/Sajidk25?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/sajid-khan-15084a186/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="http://99coding.club"><img src="https://img.shields.io/badge/99-coding.club-blue?style=social" alt="Twitter"></a>	
+<a href="http://99coding.club"><img src="https://img.shields.io/badge/99-coding.club-blue" alt="Twitter"></a>	
 	
